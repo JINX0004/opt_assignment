@@ -1,0 +1,169 @@
+Start testing: Apr 17 12:07 CST
+----------------------------------------------------------
+1/1 Testing: test_nurses_cp
+1/1 Test: test_nurses_cp
+Command: "/home/sg0212895/opt/or-tools_x86_64_Ubuntu-22.04_cpp_v9.9.3963/examples/nurses_cp/build/bin/nurses_cp"
+Directory: /home/sg0212895/opt/or-tools_x86_64_Ubuntu-22.04_cpp_v9.9.3963/examples/nurses_cp/build
+"test_nurses_cp" start time: Apr 17 12:07 CST
+Output:
+----------------------------------------------------------
+I0417 12:07:12.389324   79476 nurses_cp.cc:35] Nurses: 0 1 2 3
+I0417 12:07:12.389396   79476 nurses_cp.cc:44] Shifts: 0 1 2 3
+I0417 12:07:12.389400   79476 nurses_cp.cc:52] Days: 0 1 2 3 4 5 6
+I0417 12:07:12.830614   79476 nurses_cp.cc:184] Number of solutions: 18144
+I0417 12:07:12.830685   79476 nurses_cp.cc:185] 
+I0417 12:07:12.830688   79476 nurses_cp.cc:190] Solution 859:
+I0417 12:07:12.830690   79476 nurses_cp.cc:192] Day 0:
+I0417 12:07:12.830691   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 0
+I0417 12:07:12.830714   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830715   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830716   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 1
+I0417 12:07:12.830717   79476 nurses_cp.cc:192] Day 1:
+I0417 12:07:12.830718   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 0
+I0417 12:07:12.830719   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830720   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830720   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 1
+I0417 12:07:12.830721   79476 nurses_cp.cc:192] Day 2:
+I0417 12:07:12.830722   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 2
+I0417 12:07:12.830722   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 1
+I0417 12:07:12.830723   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830724   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 0
+I0417 12:07:12.830725   79476 nurses_cp.cc:192] Day 3:
+I0417 12:07:12.830725   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 2
+I0417 12:07:12.830726   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 0
+I0417 12:07:12.830727   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830728   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 1
+I0417 12:07:12.830728   79476 nurses_cp.cc:192] Day 4:
+I0417 12:07:12.830729   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 2
+I0417 12:07:12.830730   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 0
+I0417 12:07:12.830731   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830731   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 1
+I0417 12:07:12.830732   79476 nurses_cp.cc:192] Day 5:
+I0417 12:07:12.830733   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 3
+I0417 12:07:12.830734   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830734   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 0
+I0417 12:07:12.830735   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 1
+I0417 12:07:12.830736   79476 nurses_cp.cc:192] Day 6:
+I0417 12:07:12.830737   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 3
+I0417 12:07:12.830738   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830738   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 0
+I0417 12:07:12.830739   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 1
+I0417 12:07:12.830740   79476 nurses_cp.cc:190] Solution 2034:
+I0417 12:07:12.830741   79476 nurses_cp.cc:192] Day 0:
+I0417 12:07:12.830741   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 0
+I0417 12:07:12.830743   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 1
+I0417 12:07:12.830744   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830745   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 2
+I0417 12:07:12.830746   79476 nurses_cp.cc:192] Day 1:
+I0417 12:07:12.830747   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830748   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830749   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830749   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 0
+I0417 12:07:12.830750   79476 nurses_cp.cc:192] Day 2:
+I0417 12:07:12.830751   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830751   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830752   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 0
+I0417 12:07:12.830753   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 3
+I0417 12:07:12.830754   79476 nurses_cp.cc:192] Day 3:
+I0417 12:07:12.830754   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830755   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830756   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 0
+I0417 12:07:12.830757   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 3
+I0417 12:07:12.830758   79476 nurses_cp.cc:192] Day 4:
+I0417 12:07:12.830759   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830759   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830760   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830761   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 0
+I0417 12:07:12.830762   79476 nurses_cp.cc:192] Day 5:
+I0417 12:07:12.830762   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830763   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 0
+I0417 12:07:12.830764   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830765   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 2
+I0417 12:07:12.830765   79476 nurses_cp.cc:192] Day 6:
+I0417 12:07:12.830766   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 0
+I0417 12:07:12.830767   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 1
+I0417 12:07:12.830768   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830768   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 2
+I0417 12:07:12.830769   79476 nurses_cp.cc:190] Solution 5091:
+I0417 12:07:12.830770   79476 nurses_cp.cc:192] Day 0:
+I0417 12:07:12.830770   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830772   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 3
+I0417 12:07:12.830773   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 2
+I0417 12:07:12.830774   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 0
+I0417 12:07:12.830775   79476 nurses_cp.cc:192] Day 1:
+I0417 12:07:12.830776   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 0
+I0417 12:07:12.830776   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 3
+I0417 12:07:12.830777   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 2
+I0417 12:07:12.830778   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 1
+I0417 12:07:12.830779   79476 nurses_cp.cc:192] Day 2:
+I0417 12:07:12.830779   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830780   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 0
+I0417 12:07:12.830781   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830782   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 2
+I0417 12:07:12.830783   79476 nurses_cp.cc:192] Day 3:
+I0417 12:07:12.830783   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830784   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 0
+I0417 12:07:12.830785   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830786   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 2
+I0417 12:07:12.830787   79476 nurses_cp.cc:192] Day 4:
+I0417 12:07:12.830787   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830788   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 3
+I0417 12:07:12.830789   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 0
+I0417 12:07:12.830790   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 2
+I0417 12:07:12.830790   79476 nurses_cp.cc:192] Day 5:
+I0417 12:07:12.830791   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 0
+I0417 12:07:12.830792   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 3
+I0417 12:07:12.830793   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 2
+I0417 12:07:12.830793   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 1
+I0417 12:07:12.830794   79476 nurses_cp.cc:192] Day 6:
+I0417 12:07:12.830795   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830798   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 3
+I0417 12:07:12.830799   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 2
+I0417 12:07:12.830800   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 0
+I0417 12:07:12.830801   79476 nurses_cp.cc:190] Solution 7003:
+I0417 12:07:12.830801   79476 nurses_cp.cc:192] Day 0:
+I0417 12:07:12.830802   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830804   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 0
+I0417 12:07:12.830804   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830805   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 2
+I0417 12:07:12.830806   79476 nurses_cp.cc:192] Day 1:
+I0417 12:07:12.830807   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830807   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830808   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 0
+I0417 12:07:12.830809   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 3
+I0417 12:07:12.830810   79476 nurses_cp.cc:192] Day 2:
+I0417 12:07:12.830810   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830811   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830812   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 0
+I0417 12:07:12.830812   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 3
+I0417 12:07:12.830813   79476 nurses_cp.cc:192] Day 3:
+I0417 12:07:12.830814   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 0
+I0417 12:07:12.830815   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830815   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 1
+I0417 12:07:12.830816   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 3
+I0417 12:07:12.830817   79476 nurses_cp.cc:192] Day 4:
+I0417 12:07:12.830818   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830818   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830819   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830820   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 0
+I0417 12:07:12.830821   79476 nurses_cp.cc:192] Day 5:
+I0417 12:07:12.830821   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830822   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 2
+I0417 12:07:12.830823   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830823   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 0
+I0417 12:07:12.830824   79476 nurses_cp.cc:192] Day 6:
+I0417 12:07:12.830825   79476 nurses_cp.cc:194] Nurse 0 assigned to Task 1
+I0417 12:07:12.830826   79476 nurses_cp.cc:194] Nurse 1 assigned to Task 0
+I0417 12:07:12.830826   79476 nurses_cp.cc:194] Nurse 2 assigned to Task 3
+I0417 12:07:12.830827   79476 nurses_cp.cc:194] Nurse 3 assigned to Task 2
+I0417 12:07:12.830828   79476 nurses_cp.cc:200] Advanced usage:
+I0417 12:07:12.830828   79476 nurses_cp.cc:201] Time: 441ms
+<end of output>
+Test time =   0.45 sec
+----------------------------------------------------------
+Test Passed.
+"test_nurses_cp" end time: Apr 17 12:07 CST
+"test_nurses_cp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 17 12:07 CST

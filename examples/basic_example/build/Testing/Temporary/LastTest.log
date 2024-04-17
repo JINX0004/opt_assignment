@@ -1,0 +1,26 @@
+Start testing: Apr 17 12:06 CST
+----------------------------------------------------------
+1/1 Testing: test_basic_example
+1/1 Test: test_basic_example
+Command: "/home/sg0212895/opt/or-tools_x86_64_Ubuntu-22.04_cpp_v9.9.3963/examples/basic_example/build/bin/basic_example"
+Directory: /home/sg0212895/opt/or-tools_x86_64_Ubuntu-22.04_cpp_v9.9.3963/examples/basic_example/build
+"test_basic_example" start time: Apr 17 12:06 CST
+Output:
+----------------------------------------------------------
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1713326776.982150   78033 basic_example.cc:35] Number of variables = 2
+I0000 00:00:1713326776.982284   78033 basic_example.cc:44] Number of constraints = 1
+I0000 00:00:1713326776.984620   78033 basic_example.cc:60] Solution:
+
+I0000 00:00:1713326776.984656   78033 basic_example.cc:61] Objective value = 4
+I0000 00:00:1713326776.984693   78033 basic_example.cc:62] x = 1
+I0000 00:00:1713326776.984697   78033 basic_example.cc:63] y = 1
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_basic_example" end time: Apr 17 12:06 CST
+"test_basic_example" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 17 12:06 CST

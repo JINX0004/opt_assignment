@@ -1,0 +1,91 @@
+Start testing: Apr 17 12:35 CST
+----------------------------------------------------------
+1/1 Testing: test_cp_is_fun_cp
+1/1 Test: test_cp_is_fun_cp
+Command: "/home/sg0212895/opt/or-tools_x86_64_Ubuntu-22.04_cpp_v9.9.3963/examples/cp_is_fun_cp/build/bin/cp_is_fun_cp"
+Directory: /home/sg0212895/opt/or-tools_x86_64_Ubuntu-22.04_cpp_v9.9.3963/examples/cp_is_fun_cp/build
+"test_cp_is_fun_cp" start time: Apr 17 12:35 CST
+Output:
+----------------------------------------------------------
+I0417 12:35:16.683236   97700 cp_is_fun_cp.cc:122] C=2 P=3 I=7 S=4 F=9 U=6 N=8 T=1 R=0 E=5
+I0417 12:35:16.683380   97700 cp_is_fun_cp.cc:122] C=2 P=3 I=7 S=5 F=9 U=4 N=8 T=1 R=0 E=6
+I0417 12:35:16.683398   97700 cp_is_fun_cp.cc:122] C=2 P=3 I=7 S=5 F=9 U=8 N=6 T=1 R=0 E=4
+I0417 12:35:16.683416   97700 cp_is_fun_cp.cc:122] C=2 P=3 I=7 S=6 F=9 U=8 N=5 T=1 R=0 E=4
+I0417 12:35:16.683426   97700 cp_is_fun_cp.cc:122] C=2 P=3 I=7 S=8 F=9 U=4 N=5 T=1 R=0 E=6
+I0417 12:35:16.683436   97700 cp_is_fun_cp.cc:122] C=2 P=3 I=7 S=8 F=9 U=6 N=4 T=1 R=0 E=5
+I0417 12:35:16.683474   97700 cp_is_fun_cp.cc:122] C=2 P=4 I=7 S=3 F=9 U=6 N=8 T=1 R=0 E=5
+I0417 12:35:16.683517   97700 cp_is_fun_cp.cc:122] C=2 P=4 I=7 S=8 F=9 U=6 N=3 T=1 R=0 E=5
+I0417 12:35:16.683575   97700 cp_is_fun_cp.cc:122] C=2 P=5 I=7 S=3 F=9 U=4 N=8 T=1 R=0 E=6
+I0417 12:35:16.683612   97700 cp_is_fun_cp.cc:122] C=2 P=5 I=7 S=3 F=9 U=8 N=6 T=1 R=0 E=4
+I0417 12:35:16.683647   97700 cp_is_fun_cp.cc:122] C=2 P=5 I=7 S=6 F=9 U=8 N=3 T=1 R=0 E=4
+I0417 12:35:16.683682   97700 cp_is_fun_cp.cc:122] C=2 P=5 I=7 S=8 F=9 U=4 N=3 T=1 R=0 E=6
+I0417 12:35:16.683724   97700 cp_is_fun_cp.cc:122] C=2 P=6 I=7 S=3 F=9 U=8 N=5 T=1 R=0 E=4
+I0417 12:35:16.683778   97700 cp_is_fun_cp.cc:122] C=2 P=6 I=7 S=5 F=9 U=8 N=3 T=1 R=0 E=4
+I0417 12:35:16.683879   97700 cp_is_fun_cp.cc:122] C=2 P=8 I=7 S=3 F=9 U=4 N=5 T=1 R=0 E=6
+I0417 12:35:16.683915   97700 cp_is_fun_cp.cc:122] C=2 P=8 I=7 S=3 F=9 U=6 N=4 T=1 R=0 E=5
+I0417 12:35:16.683933   97700 cp_is_fun_cp.cc:122] C=2 P=8 I=7 S=4 F=9 U=6 N=3 T=1 R=0 E=5
+I0417 12:35:16.683969   97700 cp_is_fun_cp.cc:122] C=2 P=8 I=7 S=5 F=9 U=4 N=3 T=1 R=0 E=6
+I0417 12:35:16.684015   97700 cp_is_fun_cp.cc:122] C=3 P=2 I=6 S=5 F=9 U=8 N=7 T=1 R=0 E=4
+I0417 12:35:16.684055   97700 cp_is_fun_cp.cc:122] C=3 P=2 I=6 S=7 F=9 U=8 N=5 T=1 R=0 E=4
+I0417 12:35:16.684113   97700 cp_is_fun_cp.cc:122] C=3 P=4 I=6 S=5 F=9 U=2 N=8 T=1 R=0 E=7
+I0417 12:35:16.684169   97700 cp_is_fun_cp.cc:122] C=3 P=4 I=6 S=8 F=9 U=2 N=5 T=1 R=0 E=7
+I0417 12:35:16.684256   97700 cp_is_fun_cp.cc:122] C=3 P=5 I=6 S=2 F=9 U=8 N=7 T=1 R=0 E=4
+I0417 12:35:16.684289   97700 cp_is_fun_cp.cc:122] C=3 P=5 I=6 S=4 F=9 U=2 N=8 T=1 R=0 E=7
+I0417 12:35:16.684337   97700 cp_is_fun_cp.cc:122] C=3 P=5 I=6 S=7 F=9 U=8 N=2 T=1 R=0 E=4
+I0417 12:35:16.684369   97700 cp_is_fun_cp.cc:122] C=3 P=5 I=6 S=8 F=9 U=2 N=4 T=1 R=0 E=7
+I0417 12:35:16.684507   97700 cp_is_fun_cp.cc:122] C=3 P=7 I=6 S=2 F=9 U=8 N=5 T=1 R=0 E=4
+I0417 12:35:16.684557   97700 cp_is_fun_cp.cc:122] C=3 P=7 I=6 S=5 F=9 U=8 N=2 T=1 R=0 E=4
+I0417 12:35:16.684648   97700 cp_is_fun_cp.cc:122] C=3 P=8 I=6 S=4 F=9 U=2 N=5 T=1 R=0 E=7
+I0417 12:35:16.684689   97700 cp_is_fun_cp.cc:122] C=3 P=8 I=6 S=5 F=9 U=2 N=4 T=1 R=0 E=7
+I0417 12:35:16.684829   97700 cp_is_fun_cp.cc:122] C=4 P=3 I=5 S=6 F=9 U=2 N=8 T=1 R=0 E=7
+I0417 12:35:16.684883   97700 cp_is_fun_cp.cc:122] C=4 P=3 I=5 S=8 F=9 U=2 N=6 T=1 R=0 E=7
+I0417 12:35:16.685022   97700 cp_is_fun_cp.cc:122] C=4 P=6 I=5 S=3 F=9 U=2 N=8 T=1 R=0 E=7
+I0417 12:35:16.685070   97700 cp_is_fun_cp.cc:122] C=4 P=6 I=5 S=8 F=9 U=2 N=3 T=1 R=0 E=7
+I0417 12:35:16.685233   97700 cp_is_fun_cp.cc:122] C=4 P=8 I=5 S=3 F=9 U=2 N=6 T=1 R=0 E=7
+I0417 12:35:16.685272   97700 cp_is_fun_cp.cc:122] C=4 P=8 I=5 S=6 F=9 U=2 N=3 T=1 R=0 E=7
+I0417 12:35:16.685405   97700 cp_is_fun_cp.cc:122] C=5 P=3 I=4 S=6 F=9 U=2 N=8 T=1 R=0 E=7
+I0417 12:35:16.685456   97700 cp_is_fun_cp.cc:122] C=5 P=3 I=4 S=8 F=9 U=2 N=6 T=1 R=0 E=7
+I0417 12:35:16.685644   97700 cp_is_fun_cp.cc:122] C=5 P=6 I=4 S=3 F=9 U=2 N=8 T=1 R=0 E=7
+I0417 12:35:16.685694   97700 cp_is_fun_cp.cc:122] C=5 P=6 I=4 S=8 F=9 U=2 N=3 T=1 R=0 E=7
+I0417 12:35:16.685892   97700 cp_is_fun_cp.cc:122] C=5 P=8 I=4 S=3 F=9 U=2 N=6 T=1 R=0 E=7
+I0417 12:35:16.685933   97700 cp_is_fun_cp.cc:122] C=5 P=8 I=4 S=6 F=9 U=2 N=3 T=1 R=0 E=7
+I0417 12:35:16.685999   97700 cp_is_fun_cp.cc:122] C=6 P=2 I=3 S=5 F=9 U=8 N=7 T=1 R=0 E=4
+I0417 12:35:16.686042   97700 cp_is_fun_cp.cc:122] C=6 P=2 I=3 S=7 F=9 U=8 N=5 T=1 R=0 E=4
+I0417 12:35:16.686256   97700 cp_is_fun_cp.cc:122] C=6 P=4 I=3 S=5 F=9 U=2 N=8 T=1 R=0 E=7
+I0417 12:35:16.686310   97700 cp_is_fun_cp.cc:122] C=6 P=4 I=3 S=8 F=9 U=2 N=5 T=1 R=0 E=7
+I0417 12:35:16.686421   97700 cp_is_fun_cp.cc:122] C=6 P=5 I=3 S=2 F=9 U=8 N=7 T=1 R=0 E=4
+I0417 12:35:16.686455   97700 cp_is_fun_cp.cc:122] C=6 P=5 I=3 S=4 F=9 U=2 N=8 T=1 R=0 E=7
+I0417 12:35:16.686505   97700 cp_is_fun_cp.cc:122] C=6 P=5 I=3 S=7 F=9 U=8 N=2 T=1 R=0 E=4
+I0417 12:35:16.686539   97700 cp_is_fun_cp.cc:122] C=6 P=5 I=3 S=8 F=9 U=2 N=4 T=1 R=0 E=7
+I0417 12:35:16.686647   97700 cp_is_fun_cp.cc:122] C=6 P=7 I=3 S=2 F=9 U=8 N=5 T=1 R=0 E=4
+I0417 12:35:16.686699   97700 cp_is_fun_cp.cc:122] C=6 P=7 I=3 S=5 F=9 U=8 N=2 T=1 R=0 E=4
+I0417 12:35:16.686818   97700 cp_is_fun_cp.cc:122] C=6 P=8 I=3 S=4 F=9 U=2 N=5 T=1 R=0 E=7
+I0417 12:35:16.686993   97700 cp_is_fun_cp.cc:122] C=6 P=8 I=3 S=5 F=9 U=2 N=4 T=1 R=0 E=7
+I0417 12:35:16.687174   97700 cp_is_fun_cp.cc:122] C=7 P=3 I=2 S=4 F=9 U=6 N=8 T=1 R=0 E=5
+I0417 12:35:16.687218   97700 cp_is_fun_cp.cc:122] C=7 P=3 I=2 S=5 F=9 U=4 N=8 T=1 R=0 E=6
+I0417 12:35:16.687347   97700 cp_is_fun_cp.cc:122] C=7 P=3 I=2 S=5 F=9 U=8 N=6 T=1 R=0 E=4
+I0417 12:35:16.687517   97700 cp_is_fun_cp.cc:122] C=7 P=3 I=2 S=6 F=9 U=8 N=5 T=1 R=0 E=4
+I0417 12:35:16.687556   97700 cp_is_fun_cp.cc:122] C=7 P=3 I=2 S=8 F=9 U=4 N=5 T=1 R=0 E=6
+I0417 12:35:16.687596   97700 cp_is_fun_cp.cc:122] C=7 P=3 I=2 S=8 F=9 U=6 N=4 T=1 R=0 E=5
+I0417 12:35:16.687710   97700 cp_is_fun_cp.cc:122] C=7 P=4 I=2 S=3 F=9 U=6 N=8 T=1 R=0 E=5
+I0417 12:35:16.687782   97700 cp_is_fun_cp.cc:122] C=7 P=4 I=2 S=8 F=9 U=6 N=3 T=1 R=0 E=5
+I0417 12:35:16.687901   97700 cp_is_fun_cp.cc:122] C=7 P=5 I=2 S=3 F=9 U=4 N=8 T=1 R=0 E=6
+I0417 12:35:16.687941   97700 cp_is_fun_cp.cc:122] C=7 P=5 I=2 S=3 F=9 U=8 N=6 T=1 R=0 E=4
+I0417 12:35:16.688002   97700 cp_is_fun_cp.cc:122] C=7 P=5 I=2 S=6 F=9 U=8 N=3 T=1 R=0 E=4
+I0417 12:35:16.688045   97700 cp_is_fun_cp.cc:122] C=7 P=5 I=2 S=8 F=9 U=4 N=3 T=1 R=0 E=6
+I0417 12:35:16.688163   97700 cp_is_fun_cp.cc:122] C=7 P=6 I=2 S=3 F=9 U=8 N=5 T=1 R=0 E=4
+I0417 12:35:16.688225   97700 cp_is_fun_cp.cc:122] C=7 P=6 I=2 S=5 F=9 U=8 N=3 T=1 R=0 E=4
+I0417 12:35:16.688334   97700 cp_is_fun_cp.cc:122] C=7 P=8 I=2 S=3 F=9 U=4 N=5 T=1 R=0 E=6
+I0417 12:35:16.688373   97700 cp_is_fun_cp.cc:122] C=7 P=8 I=2 S=3 F=9 U=6 N=4 T=1 R=0 E=5
+I0417 12:35:16.688419   97700 cp_is_fun_cp.cc:122] C=7 P=8 I=2 S=4 F=9 U=6 N=3 T=1 R=0 E=5
+I0417 12:35:16.688462   97700 cp_is_fun_cp.cc:122] C=7 P=8 I=2 S=5 F=9 U=4 N=3 T=1 R=0 E=6
+I0417 12:35:16.688556   97700 cp_is_fun_cp.cc:137] Number of solutions found: 72
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"test_cp_is_fun_cp" end time: Apr 17 12:35 CST
+"test_cp_is_fun_cp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 17 12:35 CST

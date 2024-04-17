@@ -1,0 +1,18 @@
+Start testing: Apr 17 12:07 CST
+----------------------------------------------------------
+1/1 Testing: test_tsp
+1/1 Test: test_tsp
+Command: "/home/sg0212895/opt/or-tools_x86_64_Ubuntu-22.04_cpp_v9.9.3963/examples/tsp/build/bin/tsp"
+Directory: /home/sg0212895/opt/or-tools_x86_64_Ubuntu-22.04_cpp_v9.9.3963/examples/tsp/build
+"test_tsp" start time: Apr 17 12:07 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_tsp" end time: Apr 17 12:07 CST
+"test_tsp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 17 12:07 CST
